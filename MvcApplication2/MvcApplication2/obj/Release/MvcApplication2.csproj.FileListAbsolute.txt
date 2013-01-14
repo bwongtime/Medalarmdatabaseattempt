@@ -1,0 +1,7 @@
+C:\Users\Imidazole.IMZEUS\Dropbox\CAPSTONE\MvcApplication2\MvcApplication2\bin\MvcApplication2.dll
+C:\Users\Imidazole.IMZEUS\Dropbox\CAPSTONE\MvcApplication2\MvcApplication2\bin\MvcApplication2.pdb
+C:\Users\Imidazole.IMZEUS\Dropbox\CAPSTONE\MvcApplication2\MvcApplication2\bin\EntityFramework.dll
+C:\Users\Imidazole.IMZEUS\Dropbox\CAPSTONE\MvcApplication2\MvcApplication2\bin\EntityFramework.xml
+C:\Users\Imidazole.IMZEUS\Dropbox\CAPSTONE\MvcApplication2\MvcApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Imidazole.IMZEUS\Dropbox\CAPSTONE\MvcApplication2\MvcApplication2\obj\Release\MvcApplication2.dll
+C:\Users\Imidazole.IMZEUS\Dropbox\CAPSTONE\MvcApplication2\MvcApplication2\obj\Release\MvcApplication2.pdb
